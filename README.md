@@ -1,10 +1,22 @@
-### Canada
+# Canada 
 
-# Canada
+### Capital, 
+Ottawa
 
+### Official Languages, 
+English & French 
 
-My URL:https://nawhtoo-taw-cs.github.io/CSE1210-assignment-1/
-## so this is for naw htoo taw taw naw euuuuuu
+### Population Size, 
+36,286,378
+
+### Land Area in Square Kilometers,
+9.985 million km²
+
+### Currency
+Canadian dollar
+
+My URL:https://nawhtoo-taw-cs.github.io/CSE1210-assignment-1/index.html
+
 In this assignment you will be creating and customizing a web page. 
 
 ## Very Important Information to Read Before Starting on the Assignment
@@ -32,19 +44,19 @@ Follow these instructions to set up a GitHub hosted web page of your assignment.
 ## Customizing the Webpage
 Open up two tabs in your browser, navigate to your webpage in one of the tabs and to your assignment repository in the other tab. Open up the ```index.html``` file for editing (make sure you use __soft wrap__ in the GitHub code editor to have linebreaks) in your browser and customize your web page in the following ways:
 
-1. Change the line __This project is maintained by Naw Htoo__ 
+1. Change the line __This project is maintained by Brian__ by replacing QEHSCS with your name.
 
 Before continuing find and look closely at the HTML markup in the ```index.html``` file where the text of web page is included.. In particular notice the opening and closing  tags that are used to format the text, in particular the ```<h3>``` and ```</h3>```, ```<p>``` and ```</p>``` and ```<a href="...">``` and ```</a>``` tags.
 
-<index.html://nawhtoo-taw-cs.github.io/CSE1210-assignment-1/
-
-
 You will now replace the default web page text with your own information.
 
-## Canada 
+2. Canada 
 3. Replace the title of the web page with the name of the country. Note that the title of the web page appears both in the tab and on top of the page.
 4. Set up the following headings: Capital, Official Languages, Population Size, Land Area in Square Kilometers, Currency. Follwing each heading include the necessary text providing the indicated information. For example, under the heading Capital provide the name of the capital city of the country.
 5. At the bottom of the web page include the following text __See Wikipedia for more information__ with the text linking to the corresponding Wikipedia page for the country.
 6. Bonus Challenge: Add a picture of the country's flag to your web page.  
 
 Before turning in your assignment make sure that the web page is formatted properly and nicely. Spelling mistakes, typos and ugly formatting will all result in deductions.
+
+## See Wikipedia for more information
+https://en.wikipedia.org/wiki/Canada
